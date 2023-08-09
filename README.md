@@ -2,7 +2,7 @@
 
 ## Camera System
 
-Basic camera `target` and `switch` between cameras system.
+Basic camera `target` and `switch` between cameras.
 
 ```csharp
 public class Object1 : MonoBehaviour, ICameraTarget
